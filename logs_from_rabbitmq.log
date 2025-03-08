@@ -1,0 +1,6 @@
+2025/03/08 13:38:06 Connected to RabbitMQ
+2025/03/08 13:38:06 Channel open successfully
+2025/03/08 13:38:06  [*]  Waiting for logs. To exit press CTRL+C
+2025/03/08 13:38:22  [x] Sent new log
+2025/03/08 13:38:47  [x] Sent another log
+signal: interrupt
